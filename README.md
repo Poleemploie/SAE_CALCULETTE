@@ -28,12 +28,11 @@
 
 <h5>Ensuite nous avons fait en sorte de pouvoir interpréter tout les calcul de toutes les zones pour pouvoir afficher sur les 4 afficheurs finaux les résultats des calcules et nous avons fait en sorte que tout se rejoigne à ce niveau la.</h5>
 
+<img src="https://cdn.discordapp.com/attachments/811568545254998077/1033460038460788827/unknown.png">
+
 <h5>Nous avons mis des décodeurs au niveau des derniers afficheurs toujours avec les même entre et les même sorties pour pouvoir nous afficher le résultat final qui est en 4 chiffres.</h5>
 
 <img src="https://cdn.discordapp.com/attachments/811568545254998077/1033459874316681227/unknown.png">
-
-
-<img src="https://cdn.discordapp.com/attachments/811568545254998077/1033460038460788827/unknown.png">
 
 <h5>Et juste ici nous avons la retenue qui viendra s’afficher si jamais il y en a une qui est présente si jamais le résultats est trop grand.</h5>
 
