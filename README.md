@@ -1,3 +1,4 @@
 # SAE_CALCULETTE
-Caculatrice logisim SAE
-<h1>RATIO<h1/>
+<center><h1>Caculatrice logisim SAE<h1/><center/>
+
+
