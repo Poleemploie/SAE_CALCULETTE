@@ -1,5 +1,5 @@
 #SAE_CALCULETTE
-<h1>Calculette logisim SAE</h1>
+<center<h1>Calculette logisim SAE</h1>>
 
 
 
