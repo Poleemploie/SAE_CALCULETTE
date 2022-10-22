@@ -1,4 +1,3 @@
-#SAE_CALCULETTE
 <h1>Calculette logisim SAE</h1>
 
 <h5>Nous avons réalisé une calculatrice qui soustrait et additionne des chiffres et nombre avec le logiciel Logism. 
